@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="basecolor">#45bf1f</color>
+    <color name="textcolor">#6e6e6e</color>
+    <color name="bgcolor">#F3F6EF</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="headTextColor">#ffffffff</color>
+    <color name="color_btn_bg">#0000</color>
+    <color name="background">#f9f9f9</color>
+    <!-- <color name="bgcolor">#77000000</color> -->
+    <color name="lightblue">#FF3F9FE0</color>
+    <color name="pagebg">#ffb7babb</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="graycolor">#5b6064</color>
+    <color name="app_bg_color">#ffdedede</color>
+    <color name="maincolor_blue">#017bf9</color>
+    <color name="menu_item_textcolor">#ff333333</color>
+    <color name="searchresult_item_textcolor">#ff5e5e5e</color>
+    <color name="general_list_back_color">#ffffffff</color>
+    <color name="search_result_noresult_textview_color">#ff000000</color>
+    <color name="editTextColor">#ff5c5c5c</color>
+    <color name="hintColor">#ff999999</color>
+    <!-- 二维码扫描 -->
+    <color name="bg_color">#EDEDED</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="header">#58567D</color>
+    <color name="grgray">#686868</color>
+    <color name="table_bottom">#f5f5f5</color>
+    <color name="bottom_text_color">#929292</color>
+    <color name="text_color_titile">#0079ff</color>
+    <color name="blue_text">#0079ff</color>
+    <color name="common_background_color">#efeff4</color>
+    <color name="diviercolor">#efeff4</color>
+    <color name="navi_dest_textcolor">#ff000000</color>
+    <color name="call_bg">#F9F9F9</color>
+
+    <!-- <color name="callbggreen">#4cd964</color> -->
+    <color name="callbggreen">#89d8d4</color>
+    <color name="callbggray">#efeff4</color>
+    <color name="tab_blue">#499BF7</color>
+    <color name="gray">#808080</color> <!-- 灰色 -->
+
+    <color name="general_back_color">#ffececec</color>
+    <color name="newbasecolor">#0b8de3</color>
+    <color name="la_bg">#efeff4</color>
+    <color name="la_red">#fc5856</color>
+    <color name="basebg">#ffececec</color>
+    <color name="la_texttitle">#303030</color>
+    <color name="la_textname">#575757</color>
+    <color name="la_textcontent">#fe5a00</color>
+    <color name="gray_view">#cccccc</color>
+    <color name="black_hui">#999999</color>
+    <color name="gray_onoff">#666666</color>
+    <color name="bg_light_gray">#ededed</color>
+
+    <!-- 字体颜色 -->
+    <color name="text_mapcity_back">#010101</color>
+    <color name="red">#f32836</color> <!-- 红色 -->
+    <color name="yellow">#ffd200</color> <!-- 黄色 -->
+    <color name="orange">#ff6d10</color> <!-- 橙色 -->
+    <color name="blueT">#0000ff</color> <!-- 蓝色 -->
+    <color name="black_50_transparent">#80000000</color>
+    <color name="black_60_transparent">#99000000</color>
+    <color name="green_cert_detail_base">#336666</color>
+</resources>
